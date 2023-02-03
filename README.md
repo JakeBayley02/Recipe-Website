@@ -1,0 +1,1 @@
+This project will allow me to practice and demonstrate my HTML knowledge, by creating a basic recipe website. The website must consist of a main index page which will have links to various recipes and displays all the knowledge I have gained thus far.
